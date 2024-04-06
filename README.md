@@ -36,3 +36,13 @@ As a pivotal part of this project, I developed a comprehensive dashboard that vi
 
 Adopting a systematic approach, the actions are to analyze, prioritize, and test various strategies to enhance the campaign's effectiveness, leveraging the dashboard to monitor progress and inform decisions.
 
+## Conclusion
+
+Through rigorous analysis and the development of a comprehensive dashboard, this project laids the groundwork for substantial improvements in video ad campaigns. By continuously iterating on strategies based on empirical data and strategic insights, it is possible to drive greater efficiency and success in our advertising efforts.
+
+## What's in the repository?
+
+- Code (SQL)
+- Results (DOC)
+- Dashboard (PDF)
+
